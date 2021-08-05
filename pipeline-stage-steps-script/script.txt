@@ -6,12 +6,12 @@ pipeline {
 			
 				script{
 				
-					def name = "jeff"
+					def name = "trietree"
 					
-					if(name == "jeff")
+					if(name == "trietree")
 						println("hi ${name}")
 					else
-						println("hi human")				
+						println("hi Subscribers")				
 												
 					sleep 2	
 					echo "end of script"
